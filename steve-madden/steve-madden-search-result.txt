@@ -11,3 +11,14 @@ Heel height: <inches>
 Front platform: <inches, or none>
 
 ---
+
+UTC: 2026-11-22T08:10:00Z
+Product URL: https://www.stevemadden.com/products/stelan-black-leather
+Product: STELAN Black Leather Platform Square-Toe Stiletto
+Color/variant: Black Leather
+Price: $139.95
+Verified image: Clear side profile (official gallery)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 5.5 inches
+Front platform: 2 inches
