@@ -19,3 +19,16 @@ Verified image: 2/3 frontal view (gallery image 1)
 Heel height: 4.25 inches
 Front platform: 1.25 inches
 Product: Nine West Keela Platform Pump
+
+UTC: 2026-11-22T08:35:00Z
+Product URL: https://www.dsw.com/product/nine-west-tyrah-pump/628221
+Product: Nine West Tyrah Peep-Toe Platform Pump
+Color/variant: Black Patent
+Price: $89.99
+Verified image: 2/3 frontal view (product image)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 3.75 inches
+Front platform: 0.5 inches
+Reference image URL: https://assets.designerbrands.com/match/Site_Name/628221_001_ss_01/
+Reference image source: Official product listing
