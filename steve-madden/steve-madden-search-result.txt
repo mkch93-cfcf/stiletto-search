@@ -22,3 +22,29 @@ Image source: Actual listing gallery
 Heel type: Stiletto
 Heel height: 5.5 inches
 Front platform: 2 inches
+
+UTC: 2026-11-22T08:35:00Z
+Product URL: https://www.stevemadden.com/products/silene-black-leather
+Product: SILENE Black Leather Platform Pump Stiletto
+Color/variant: Black Leather
+Price: $149.95
+Verified image: Clear side profile (official gallery image 1)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 5.5 inches
+Front platform: 1.5 inches
+Reference image URL: https://www.stevemadden.com/cdn/shop/files/STEVEMADDEN_SHOES_SILENE_BLACK-LEATHER_01.jpg?v=1770350296&width=1200
+Reference image source: Official product gallery
+
+UTC: 2026-11-22T08:35:00Z
+Product URL: https://www.stevemadden.com/products/noir-black-leather
+Product: NOIR Black Leather Pointed-Toe Stiletto Pump
+Color/variant: Black Leather
+Price: $109.95
+Verified image: Clear side profile (official gallery)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 4 inches
+Front platform: none
+Reference image URL: https://www.stevemadden.com/cdn/shop/files/STEVEMADDEN_SHOES_NOIR_BLACK-LEATHER_01.jpg?v=1731624324&width=1200
+Reference image source: Official product gallery
