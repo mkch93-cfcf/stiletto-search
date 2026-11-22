@@ -20,3 +20,16 @@ Verified image: Side view (gallery image labelled Left View)
 Heel type: Stiletto
 Heel height: 3 1/7 inches
 Front platform: None
+
+UTC: 2026-11-22T08:10:00Z
+Product URL: https://www.zappos.com/p/womens-steve-madden-stelan/product/10092578
+Product: Steve Madden Stelan
+Color/variant: Black Leather
+Price: $139.00
+Verified image: Side profile (gallery images including clear side view of peep-toe platform stiletto)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 5.5 inches
+Front platform: 2 inches (concealed under ball of foot)
+Reference image URL: https://www.stevemadden.com/cdn/shop/files/STEVEMADDEN_SHOES_STELAN_BLACK-LEATHER_01_a26c9ae8-a8a6-4beb-8c95-8c85ca8def47.jpg
+Reference image source: Official Steve Madden site (matching product)
