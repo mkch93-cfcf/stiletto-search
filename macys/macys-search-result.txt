@@ -20,3 +20,27 @@ Verified image: Side view (gallery image labelled Left View; same product SKU 10
 Heel type: Stiletto
 Heel height: 3.15 inches
 Front platform: None
+
+UTC: 2026-11-22T08:10:00Z
+Product URL: https://www.macys.com/shop/product/aldo-womens-stasyamix-high-heel-pumps?ID=28384945
+Product: ALDO Stasyamix High Heel Pumps
+Color/variant: Black Combo
+Price: ~$120
+Verified image: Side / 2/3 frontal view (clear profile of pointed-toe stiletto)
+Image source: Actual listing gallery and matching ALDO official site images
+Heel type: Stiletto
+Heel height: 4 inches
+Front platform: none
+Reference image URL: https://www.aldoshoes.com/cdn/shop/files/product_14508668_stasyamix_black_001-002-029_main_sq_gy.jpg
+Reference image source: Official ALDO site (matching product)
+
+UTC: 2026-11-22T08:10:00Z
+Product URL: https://www.macys.com/shop/product/steve-madden-womens-morrie-stiletto-pumps?ID=27697495
+Product: Steve Madden Morrie Two-Piece Pointed-Toe Stiletto Pumps
+Color/variant: Burgundy Techno Satin
+Price: ~$129
+Verified image: 2/3 frontal view (gallery shows clear profile of pointed stiletto with ankle strap)
+Image source: Actual listing gallery
+Heel type: Stiletto
+Heel height: 4.25 inches
+Front platform: none
