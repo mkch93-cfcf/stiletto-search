@@ -50,4 +50,4 @@ Reference image URL: https://treasuresofnewyorkcity.com/cdn/shop/products/prada-
 Reference source: https://treasuresofnewyorkcity.com/products/prada-brown-leather-floral-block-heel
 Reference image angle: Side profile
 Reference match: Similar brown floral Prada Mary Jane design; reference source specifies a 3.5-inch block heel. eBay gallery descriptions also identify block heels. Reject under the accepted-heel rules.
-Status: Rejected; do not add to winner file.
+Status: User-approved exception for reference tracking. Block heel is outside the standard accepted heel types, but the user explicitly approved this candidate. The eBay listing has ended, and the reference image is from a separate source; do not label it a verified active listing or verified eBay gallery image.
