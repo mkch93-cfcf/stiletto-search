@@ -50,7 +50,7 @@ Reference image URL: https://treasuresofnewyorkcity.com/cdn/shop/products/prada-
 Reference source: https://treasuresofnewyorkcity.com/products/prada-brown-leather-floral-block-heel
 Reference image angle: Side profile
 Reference match: Similar brown floral Prada Mary Jane design; reference source specifies a 3.5-inch block heel. eBay gallery descriptions also identify block heels. Reject under the accepted-heel rules.
-Status: User-approved exception for reference tracking. Block heel is outside the standard accepted heel types, but the user explicitly approved this candidate. The eBay listing has ended, and the reference image is from a separate source; do not label it a verified active listing or verified eBay gallery image.
+Status: User-approved exception for reference tracking. Block heels are an accepted type under the current criteria; exact eBay item match and specifications remain unverified. The eBay listing has ended, and the reference image is from a separate source; do not label it a verified active listing or verified eBay gallery image.
 
 
 UTC: 2026-11-22T07:40:00Z
@@ -62,3 +62,16 @@ Reference source: https://poshmark.com/listing/Dior-Galliano-FW-1998-Runway-Mary
 Reference image angle: Clear side profile
 Reference match: Same Dior Galliano FW1998 runway Mary Jane design; external listing identifies EU 37.5 and shows the multicolor patchwork upper and slim stiletto. eBay listing specifies stiletto heel and 3–3.9 inches. Heel height is verified only as a range, not an exact measurement.
 Status: Qualifying reference-image candidate; eBay listing ended. User explicitly accepts ended listings when a suitable external reference image is available. Not an eBay gallery image.
+
+
+UTC: 2026-11-22T07:44:01Z
+Candidate: Gucci Black Patent Horsebit Mary Jane Pumps
+eBay URL: [not recovered in this record]
+Listed price: USD 670
+eBay size: US 7 / EU 37
+Reference image URL: Not yet recovered
+Reference source: Not yet recovered
+Reference image angle: eBay gallery reportedly contains six images; suitable side-profile or 2/3 frontal view not yet independently verified
+Heel type: Block
+Heel height: 2–2.9 inches (eBay listing range; below standard 3-inch minimum)
+Status: User-approved exception for reference tracking. User considers the design visually acceptable despite the below-minimum heel height. Keep the height discrepancy explicit; do not classify as a standard qualifying winner. Direct image URL and original source page still need to be captured before this can serve as a reference-image record.
