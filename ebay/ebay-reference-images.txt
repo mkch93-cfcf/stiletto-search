@@ -95,3 +95,45 @@ Reference source: https://theluxurycloset.com/women/gucci-black-lace-and-leather
 Reference image angle: Clear side profile (with pink sole visible)
 Reference match: Same Virginia lace Mary Jane design; reference states 10 cm (~3.94 inch) heel. Size differs (EU 39.5). Strengthens prior unverified entry.
 Status: Unverified candidate; external reference confirms approx 4-inch stiletto. Not a winner until eBay gallery and exact specs verified.
+
+UTC: 2026-11-22T10:15:00Z
+Candidate: GUCCI Dark Red Mary Jane Stiletto Pumps 38 Shoes Leather Strap Button Pointed
+eBay URL: https://www.ebay.com/itm/187265360141
+Listed price: USD 349.99 (ended listing)
+eBay size: EU 38 / US 8
+Reference image URL: https://static.wixstatic.com/media/7a993e_223c266cddfa4573b0adaf58e933e685~mv2.png/v1/fit/w_500,h_500,q_90/file.png
+Reference source: https://www.bellissimaconsignment.com/product-page/gucci-dark-red-mary-jane-pointed-toe-stiletto-pumps-38-8
+Reference image angle: Clear side profile
+Heel type: Stiletto
+Heel height: 3.75 inches (seller stated on matching external listing)
+Front platform: none
+Reference match: Exact design match — dark red leather pointed toe with single button-strap Mary Jane. External source confirms 3.75-inch stiletto. eBay listing ended.
+Status: Qualifying reference-image candidate; eBay listing ended. Suitable external side-profile image available. Not an eBay gallery image.
+
+UTC: 2026-11-22T10:15:00Z
+Candidate: Miu Miu Mary Jane Nude Satin Stiletto Heel Platform Pumps Size EU 36 / US 6
+eBay URL: https://www.ebay.com/itm/226603313230
+Listed price: USD 109.00
+eBay size: EU 36 / US 6
+Color/variant: Nude satin
+Heel type: Stiletto
+Heel height: Ultra High (4 in & Higher) — exact measurement not stated in listing
+Front platform: yes (Style listed as Platform; exact height not stated)
+Reference image URL: Not yet recovered for exact match
+Reference source: Not yet recovered for exact match
+Reference image angle: eBay gallery not independently verified for side profile in this session
+Status: Unverified candidate. Designer platform stiletto Mary Jane. Exact heel and platform heights require verification from gallery or additional sources. Promising but not promoted to verified results.
+
+UTC: 2026-11-22T10:15:00Z
+Candidate: Christian Louboutin Vintage Karo Leather Mary Jane Pump Heels Y2K 90s Black 41
+eBay URL: https://www.ebay.com/itm/277452314839
+Listed price: USD 299.05
+eBay size: EU 41 / US 11
+Color/variant: Black leather
+Heel type: Stiletto
+Heel height: Ultra High (4 in & Higher) — exact measurement not stated in listing
+Front platform: none stated
+Reference image URL: Not yet recovered for exact vintage Karo model
+Reference source: Not yet recovered
+Reference image angle: Not verified
+Status: Unverified candidate. Vintage designer stiletto Mary Jane. Exact heel height and clear side-profile reference still needed. Not a verified winner.
