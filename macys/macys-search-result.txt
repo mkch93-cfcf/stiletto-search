@@ -11,3 +11,12 @@ Heel height: <inches>
 Front platform: <inches, or none>
 
 ---
+
+UTC: 2026-11-22T07:03:47Z
+Product URL: https://www.macys.com/shop/product/calvin-klein-womens-brynia-two-piece-mary-jane-stiletto-pumps?ID=27683551
+Product: Calvin Klein Brynia Two Piece Mary Jane Stiletto Pumps
+Color/variant: True Garnet Patent
+Verified image: Side view (gallery image labelled Left View; same product SKU 10086907)
+Heel type: Stiletto
+Heel height: 3.15 inches
+Front platform: None
