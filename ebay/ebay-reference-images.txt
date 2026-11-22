@@ -75,3 +75,23 @@ Reference image angle: eBay gallery reportedly contains six images; suitable sid
 Heel type: Block
 Heel height: 2–2.9 inches (eBay listing range; below standard 3-inch minimum)
 Status: User-approved exception for reference tracking. User considers the design visually acceptable despite the below-minimum heel height. Keep the height discrepancy explicit; do not classify as a standard qualifying winner. Direct image URL and original source page still need to be captured before this can serve as a reference-image record.
+
+UTC: 2026-11-22T09:17:00Z
+Candidate: Manolo Blahnik Campari / Campy 105mm Oval Toe Black Patent Leather Mary Jane Pumps
+eBay URL: https://www.ebay.com/itm/306504258492
+Listed price: USD 700 (sold/ended listing)
+Reference image URL: http://brownsfashion.com/cdn/shop/files/16262649_34223634_2048.webp?v=1758211337
+Reference source: https://brownsfashion.com/products/manolo-blahnik-campari-105mm-pointed-toe-pumps-lss42w21p948908103
+Reference image angle: Clear side profile
+Reference match: Same Campari 105mm patent Mary Jane design; 105mm (4.13 inch) stiletto, no platform. eBay listing ended/sold. External reference matches the iconic Campari model.
+Status: Qualifying reference-image candidate; eBay listing ended. Suitable external side-profile image available.
+
+UTC: 2026-11-22T09:17:00Z
+Candidate: Gucci Virginia Black Lace Mary Jane Pumps (additional reference)
+eBay URL: https://www.ebay.com/itm/227609964753 (existing candidate)
+Listed price: USD 675
+Reference image URL: https://cdn.theluxurycloset.com/uploads/opt/products/full/luxury-women-gucci-used-shoes-p315698-006.jpg
+Reference source: https://theluxurycloset.com/women/gucci-black-lace-and-leather-virginia-mary-jane-pumps-size-395-p315698
+Reference image angle: Clear side profile (with pink sole visible)
+Reference match: Same Virginia lace Mary Jane design; reference states 10 cm (~3.94 inch) heel. Size differs (EU 39.5). Strengthens prior unverified entry.
+Status: Unverified candidate; external reference confirms approx 4-inch stiletto. Not a winner until eBay gallery and exact specs verified.
