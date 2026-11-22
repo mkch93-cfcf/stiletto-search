@@ -1,0 +1,13 @@
+Store: steve-madden
+Store URL: https://www.stevemadden.com/
+
+Successful product-page records only.
+For each verified match, append:
+UTC: YYYY-MM-DDTHH:MM:SSZ
+Product URL: <canonical product page URL>
+Color/variant: <selected color or variant, if applicable>
+Verified image: <side view or 2/3 frontal view>
+Heel height: <inches>
+Front platform: <inches, or none>
+
+---
