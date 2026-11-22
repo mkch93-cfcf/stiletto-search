@@ -11,3 +11,12 @@ Heel height: <inches>
 Front platform: <inches, or none>
 
 ---
+
+UTC: 2026-11-22T07:03:47Z
+Product URL: https://www.zappos.com/p/womens-tommy-hilfiger-gefrey-red-patent/product/10078820/color/1141
+Product: Tommy Hilfiger Gefrey
+Color/variant: Red Patent
+Verified image: Side view (gallery image labelled Left View)
+Heel type: Stiletto
+Heel height: 3 1/7 inches
+Front platform: None
