@@ -1,0 +1,53 @@
+# eBay Mary Jane Candidates — Reference Images
+# These are visual references from separate product pages, NOT verified eBay gallery images.
+# Do not treat entries as qualifying winners until the exact eBay listing's specifications and gallery are verified.
+
+UTC: 2026-11-22T07:33:00Z
+Candidate: Christian Dior Spectadior Buckle Brogue Maryjane Cap Toe Pointed Toe Pumps
+eBay URL: https://www.ebay.com/itm/318703810232
+Listed price: USD 799
+Reference image URL: https://kream-phinf.pstatic.net/MjAyMzExMzBfMTE3/MDAxNzAxMzE0MzgwODI4.WtnupFmvZs84VSSMOV9yw-4lu2MhNCG0S0kCcNuy_usg.pj5xgUtrUMHbDZEdNNIwctu_IdP_u3N0Jt3FgWP4lmwg.PNG/a_b0052888183541d592922c54c3f4fd02.png
+Reference source: https://kream.co.kr/products/210701
+Reference image angle: Side profile
+Reference match: Spectadior model family, but black/white colorway differs from eBay listing; reference heel appears sculptural/thick. Recheck exact item before acceptance.
+Status: Unverified candidate; not a winner.
+
+UTC: 2026-11-22T07:33:00Z
+Candidate: Gucci Virginia Black Lace Mary Jane Pumps
+eBay URL: https://www.ebay.com/itm/227609964753
+Listed price: USD 675
+Reference image URL: https://cdn.theluxurycloset.com/uploads/opt/products/750x750/luxury-women-gucci-used-shoes-p789217-011.jpg
+Reference source: https://theluxurycloset.com/women/gucci-black-mesh-and-lace-virginia-mary-jane-pumps-size-385-p789217
+Reference image angle: Side profile
+Reference match: Same Virginia lace Mary Jane design family; reference is EU 38.5, not the eBay pair's US 7. Heel height for the eBay pair remains unverified.
+Status: Unverified candidate; not a winner.
+
+UTC: 2026-11-22T07:33:00Z
+Candidate: Gucci Vernice Crystal Pearl Embellished Mary Jane Pumps Patent Leather Black 39
+eBay URL: https://www.ebay.com/itm/306801634400
+Listed price: USD 590
+Reference image URL: https://www.fashionphile.com/cdn/shop/files/d82fb93534c6a3935264c324b9665d00.jpg?v=1778597846&width=1946
+Reference source: https://www.fashionphile.com/products/gucci-vernice-crystal-pearl-embellished-mary-jane-pumps-36-black-1867123
+Reference image angle: 2/3 frontal view
+Reference match: Same named Gucci Vernice Crystal Pearl Mary Jane style, but reference is EU 36 and has a stated 1.75-inch heel. This raises a serious concern that the eBay item may fail the 3-inch minimum; verify exact pair before acceptance.
+Status: Unverified candidate; likely fails heel-height criterion.
+
+UTC: 2026-11-22T07:33:00Z
+Candidate: Gucci Sylvie Ivory Leather Mary Jane Pumps
+eBay URL: https://www.ebay.com/shop/gucci-sylvie-pumps?_nkw=gucci+sylvie+pumps
+Listed price: USD 500 (search result; exact item URL not recovered)
+Reference image URL: https://a.1stdibscdn.com/gucci-sylvie-ivory-leather-mary-jane-web-strap-pumps-us-9-for-sale-picture-2/22569652/v_134975321633503453834/a260938_2_master.jpg?width=768
+Reference source: https://www.1stdibs.com/fashion/clothing/shoes/gucci-sylvie-ivory-leather-mary-jane-web-strap-pumps-us-9/id-v_13497532/
+Reference image angle: Side profile
+Reference match: Same ivory leather Sylvie web-strap design; reference is US 9, not the eBay search result's EU 37 / US 7. Side profile is clear; exact eBay item and heel height still need verification.
+Status: Unverified candidate; not a winner.
+
+UTC: 2026-11-22T07:33:00Z
+Candidate: Prada Fall 1996 Runway Floral Applique Antiqued Leather Mary Jane Heels
+eBay URL: https://www.ebay.com/itm/336664570024
+Listed price: USD 1,075.50 at ended listing (was USD 1,195); listing ended
+Reference image URL: https://treasuresofnewyorkcity.com/cdn/shop/products/prada-brown-leather-floral-mary-jane-heel-shoes-594.jpg?v=1649779327
+Reference source: https://treasuresofnewyorkcity.com/products/prada-brown-leather-floral-block-heel
+Reference image angle: Side profile
+Reference match: Similar brown floral Prada Mary Jane design; reference source specifies a 3.5-inch block heel. eBay gallery descriptions also identify block heels. Reject under the accepted-heel rules.
+Status: Rejected; do not add to winner file.
