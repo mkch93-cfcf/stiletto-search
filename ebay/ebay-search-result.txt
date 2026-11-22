@@ -49,3 +49,21 @@ Verified image: 2/3 frontal view (gallery image 1 of 18)
 Heel type: Stiletto
 Heel height: 4.13 inches (105 mm)
 Front platform: none
+
+UTC: 2026-11-22T07:21:00Z
+Product URL: https://www.ebay.com/itm/333254378171
+Product: Manolo Blahnik BB 90 Black Satin Velvet Dots Pointy Pumps
+Color/variant: Black satin velvet with gold dots, EU 36.5 / US 6.5
+Verified image: Side profile (gallery image 18 of 20)
+Heel type: Stiletto
+Heel height: 3.54 inches (90 mm)
+Front platform: none
+
+UTC: 2026-11-22T07:21:00Z
+Product URL: https://www.ebay.com/itm/168575838031
+Product: Manolo Blahnik Classic Mesh Polka Dot Pumps
+Color/variant: Black flocked mesh, US 7.5 / EU 35.5
+Verified image: Side profile (gallery image 1 of 8)
+Heel type: Stiletto
+Heel height: 3.54 inches (90 mm; Ipumod 90 model)
+Front platform: none
