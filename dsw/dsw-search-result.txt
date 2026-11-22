@@ -11,3 +11,11 @@ Heel height: <inches>
 Front platform: <inches, or none>
 
 ---
+
+UTC: 2026-11-22T06:53:01Z
+Product URL: https://www.dsw.com/product/nine-west-keela-platform-pump/624285?activeColor=001
+Color/variant: Black
+Verified image: 2/3 frontal view (gallery image 1)
+Heel height: 4.25 inches
+Front platform: 1.25 inches
+Product: Nine West Keela Platform Pump
