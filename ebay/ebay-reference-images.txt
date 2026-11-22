@@ -137,3 +137,48 @@ Reference image URL: Not yet recovered for exact vintage Karo model
 Reference source: Not yet recovered
 Reference image angle: Not verified
 Status: Unverified candidate. Vintage designer stiletto Mary Jane. Exact heel height and clear side-profile reference still needed. Not a verified winner.
+
+UTC: 2026-11-22T11:30:00Z
+Candidate: Christian Louboutin MJ Goes High Sparkly Merlot Patent Mary Jane Platforms
+eBay URL: https://www.ebay.com/itm/354988061260
+Listed price: approx USD 467 (GBP 350)
+eBay size: EU 35.5 / US 5.5
+Color/variant: Merlot / sparkly patent leather
+Heel type: Block
+Heel height: 110 mm (approx 4.33 inches) from external matching listing; eBay lists platform 3 cm
+Front platform: 40 mm (approx 1.57 inches) from external; eBay lists 3 cm
+Reference image URL: http://savannahs.com/cdn/shop/files/CL11312S-Christian-Louboutin-MJ-Goes-High-burgundy-pump-002_8723d303-535c-4974-a453-9328bab4df5a.jpg?v=1775915888
+Reference source: https://savannahs.com/products/mj-goes-high-burgundy-patent-leather-pump-cl11312s
+Reference image angle: Clear side profile
+Reference match: Exact MJ Goes High model in merlot patent; external confirms 110mm block heel with platform. Size on external may differ slightly but design matches. Platform present as required for heel near/above 4.5".
+Status: Qualifying reference-image candidate. eBay gallery not fully verified in this session; external side-profile image available. Not an eBay gallery image.
+
+UTC: 2026-11-22T11:30:00Z
+Candidate: Gucci Coline Pumps Studded T-Strap Burgundy Heels Mary Jane
+eBay URL: https://www.ebay.com/itm/306662622564
+Listed price: approx USD 200
+eBay size: EU 39 / US 8.5
+Color/variant: Burgundy leather with gold studs
+Heel type: Stiletto (slim)
+Heel height: High (3 in. to 4.5 in.) on eBay; external sources state approx 4.13–4.25 inches (95–108 mm)
+Front platform: none stated
+Reference image URL: https://a.1stdibscdn.com/gucci-burgundy-leather-coline-studded-t-strap-pumps-size-38-for-sale/1121189/v_248383321735043745885/24838332_datamatics.jpg?width=768
+Reference source: https://www.1stdibs.com/fashion/clothing/shoes/gucci-burgundy-leather-coline-studded-t-strap-pumps-size-38/id-v_24838332/
+Reference image angle: Side profile
+Reference match: Same Coline studded T-strap Mary Jane design in burgundy; external size EU 38 differs from eBay EU 39. Heel height consistent with range.
+Status: Unverified candidate; external reference provides clear side profile and confirms stiletto in accepted height range. Not a verified winner until eBay gallery confirmed.
+
+UTC: 2026-11-22T11:30:00Z
+Candidate: Prada Mary Jane Platform Logo High Heels Pumps Black Leather Square Toe
+eBay URL: https://www.ebay.com/itm/227075498476
+Listed price: USD 509 (ended listing)
+eBay size: EU 37 / US 7
+Color/variant: Black leather
+Heel type: Spool (accepted as block/cone variant)
+Heel height: Ultra High (4 in & Higher) on eBay; external Poshmark listing states approx 4 inches
+Front platform: yes (platform style)
+Reference image URL: http://www.ledepartment.com/cdn/shop/files/IMG_9673Large.jpg?v=1767056813
+Reference source: https://www.ledepartment.com/en-us/products/prada-black-leather-mary-jane-square-toe-pumps
+Reference image angle: Side / 2/3 view of pair
+Reference match: Similar black leather square-toe Mary Jane with architectural heel; external states 4" heel. Exact platform height and match to eBay item unverified beyond model family. Listing ended.
+Status: Qualifying reference-image candidate; eBay listing ended. External reference available. Not an eBay gallery image. Platform presence supports height criterion.
